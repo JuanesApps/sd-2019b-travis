@@ -9,4 +9,4 @@ def test_add():
     #assert add_result == 7
     assert demo.add(3,4)==7
     assert demo.add(1,9)==10
-    assert demo.add(2,4)==8
+    assert demo.add(2,4)==6
